@@ -1,4 +1,4 @@
-# curso-R-Python-data-science-analisis-datos
+# Curso de R y Python para Data Science y Análisis de Datos
 
 ## Aprende R y Python desde cero para Análisis de Datos, Data Sicence, Minería de Datos, Data Mining, Visualizaciones, etc.
 
