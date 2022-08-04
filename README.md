@@ -6,7 +6,7 @@ Este curso es para aprender R y Python desde cero mientras programas. Es un curs
 
 Comenzaremos con la instalación de todo lo necesario para programar en nuestro ordenador y te enseñaremos también las herramientas de la nube que tienes disponible de forma gratuita para que ni siquiera tengas que instalar nada.
 
-Luego veremos los fundamentos principales de cada lenguaje, cómo se configura, cómo se trabaja, cómo se definen las cosas, cómo se crean funciones y códigos, etc. Posteriormente, veremos los diferentes paquetes y librerías más usadas (Pandas, Seaborn, ggplot2, etc.) de cada lenguaje, que podemos utilizar en nuestros análisis de datos. 
+Luego veremos los fundamentos principales de cada lenguaje, cómo se configura, cómo se trabaja, cómo se definen las cosas, cómo se crean funciones y códigos, etc. Posteriormente, veremos los diferentes paquetes y librerías más usadas (NumPy, Pandas, Matplotlib, Seaborn, ggplot2, etc.) de cada lenguaje, que podemos utilizar en nuestros análisis de datos. 
 
 Y paso a paso veremos las diferentes formas de trabajar con los datos: cómo importarlos, cómo guardarlos, cómo descargar datos de internet y usarlos para analizarlos, cuáles son las principales partes del pre-procesado de datos, el análisis estadístico descriptivo, los diferentes gráficos que podemos crear en base a nuestros datos, y cómo podemos personalizar todas esas visualizaciones. 
 
