@@ -14,4 +14,6 @@ Todo ello utlizando múltiples casos prácticos reales. Y a su vez, tendrás a t
 
 Así que si tomas este curso estarás preparado para manejar R y Python con total soltura, y podrás comenzar a estudiar métodos un poco más avanzados del análisis de datos programados en R o Python. 
 
+Más cursos y material gratuito en: www.aprendeconeli.com
+
 
